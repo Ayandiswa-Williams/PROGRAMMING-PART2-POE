@@ -21,7 +21,6 @@
 3. Set `greeting.wav` → **Copy to Output Directory = Copy always**
 4. Press F5 to run
 
-## Video Demo
 
 
 ---
