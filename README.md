@@ -1,12 +1,10 @@
 # PROGRAMMING-PART2-POE
 
-# PROGRAMMING-PART2-POE
-
 **Cybersecurity Awareness Bot (WPF GUI)**
 
 ## Student Information
 - **Name**: Ayandiswa Williams
-- **Student Number**: [Insert Your Student Number Here]
+- **Student Number**: st10468447
 
 ## Features
 - Voice Greeting on Startup
