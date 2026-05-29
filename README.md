@@ -22,7 +22,7 @@
 4. Press F5 to run
 
 ## Video Demo
-[Watch Video](https://youtu.be/YOUR_LINK_HERE)
+
 
 ---
 
